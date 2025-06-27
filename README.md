@@ -24,7 +24,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60"/><br>Laravel
+      <img src="https://raw.githubusercontent.com/mariam-docs/CDN/main/laravel-official.svg" width="60"/><br>Laravel
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
