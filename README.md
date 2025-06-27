@@ -53,6 +53,18 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 
 ---
 
+## 📜 Certifications
+
+| Certificate                                     | Issuer                           | Year |
+|------------------------------------------------|----------------------------------|------|
+| Back-end (PHP & Laravel) Diploma               | Route IT Training Center         | 2025 |
+| Digital Egypt Pioneers Program                 | Ministry of Communications (MCIT) | 2024 |
+| Business English Track – Round 1               | OTO Courses & MCIT               | 2024 |
+
+> I’m constantly learning and adding new certifications. Stay tuned for more!
+
+---
+
 ## 🌐 My Blog & Articles
 
 You can find my technical articles, writeups, and bug bounty experiences on Medium:
