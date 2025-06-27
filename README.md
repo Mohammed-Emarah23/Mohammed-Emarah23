@@ -55,13 +55,25 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 
 ## 📜 Certifications
 
-| Certificate                                     | Issuer                            | Year | Link |
-|------------------------------------------------|-----------------------------------|------|------|
-| Back-end (PHP & Laravel) Diploma               | Route IT Training Center          | 2025 | [View](#) |
-| Digital Egypt Pioneers Program                 | Ministry of Communications (MCIT) | 2024 | [View](#) |
-| Business English Track – Round 1               | OTO Courses & MCIT                | 2024 | [View](#) |
+<p align="center">
 
-> I’m constantly learning and adding new certifications. Stay tuned for more!
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Back--end%20(PHP%20%26%20Laravel)%20Diploma-Route%20Academy-8A2BE2?style=for-the-badge&logo=laravel&logoColor=white" alt="Back-end Laravel Certification"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Digital%20Egypt%20Pioneers%20Program-MCIT-228B22?style=for-the-badge&logo=gov.uk&logoColor=white" alt="Digital Egypt Certificate"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Business%20English%20Track%20(Round%201)-OTO%20%26%20MCIT-FFA500?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="English Certificate"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <i>🏅 More certifications will be added as I continue learning and growing.</i>
+</p>
 
 ---
 
@@ -105,3 +117,4 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
 <p align="center">
   <i>"Driven by code. Secured by knowledge. Always learning."</i>
 </p>
+
