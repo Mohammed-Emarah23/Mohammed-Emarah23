@@ -33,42 +33,21 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 
 ## 🛠️ Technologies & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>PHP
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-plain.svg" width="40"/><br>Laravel
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS3
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br>GitHub
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" /><br>Postman
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <b style="color:#777BB4;">PHP</b> &nbsp;&nbsp; 
+    <b style="color:#FF2D20;">Laravel</b> &nbsp;&nbsp;
+    <b style="color:#4479A1;">MySQL</b> &nbsp;&nbsp;
+    <b style="color:#F7DF1E;">JavaScript</b> &nbsp;&nbsp;
+    <b style="color:#E34F26;">HTML5</b> &nbsp;&nbsp;
+    <b style="color:#1572B6;">CSS3</b> &nbsp;&nbsp;
+    <b style="color:#61DAFB;">React</b> &nbsp;&nbsp;
+    <b style="color:#F05032;">Git</b> &nbsp;&nbsp;
+    <b style="color:#181717;">GitHub</b> &nbsp;&nbsp;
+    <b style="color:#FF6C37;">Postman</b>
+  </marquee>
+</p>
+
 
 ---
 
