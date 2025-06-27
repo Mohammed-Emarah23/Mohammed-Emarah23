@@ -75,10 +75,10 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
 </p>
 
+<!-- البديل عن GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emarah23&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Emarah23&theme=tokyo-night" alt="Activity Graph" />
 </p>
-
 
 ---
 
@@ -94,6 +94,7 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
 <p align="center">
   <i>"Driven by code. Secured by knowledge. Always learning."</i>
 </p>
+
 
 
 
