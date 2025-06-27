@@ -30,7 +30,6 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 - 🔑 Authentication vulnerabilities
 
 ---
-
 ## 🛠️ Technologies & Tools
 
 <table align="center">
@@ -39,7 +38,7 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>PHP
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/dev-x-zero/assets/main/images/laravel.svg" width="40" /><br>Laravel
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" /><br>Laravel
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL
