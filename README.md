@@ -24,7 +24,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/mariam-docs/CDN/main/laravel-red.svg" width="60"/><br>Laravel
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60"/><br>Laravel
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
@@ -89,3 +89,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Emarah23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
