@@ -76,7 +76,7 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emarah23&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Emarah23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
