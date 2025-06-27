@@ -30,23 +30,20 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 - 🔑 Authentication vulnerabilities
 
 ---
-
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <b style="color:#777BB4;">PHP</b> &nbsp;&nbsp; 
-    <b style="color:#FF2D20;">Laravel</b> &nbsp;&nbsp;
-    <b style="color:#4479A1;">MySQL</b> &nbsp;&nbsp;
-    <b style="color:#F7DF1E;">JavaScript</b> &nbsp;&nbsp;
-    <b style="color:#E34F26;">HTML5</b> &nbsp;&nbsp;
-    <b style="color:#1572B6;">CSS3</b> &nbsp;&nbsp;
-    <b style="color:#61DAFB;">React</b> &nbsp;&nbsp;
-    <b style="color:#F05032;">Git</b> &nbsp;&nbsp;
-    <b style="color:#181717;">GitHub</b> &nbsp;&nbsp;
-    <b style="color:#FF6C37;">Postman</b>
-  </marquee>
-</p>
+| 🧰 Tool        | 🖍️ Description             |
+|---------------|----------------------------|
+| **PHP**       | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Laravel**   | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
+| **MySQL**     | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **JavaScript**| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **HTML5**     | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **CSS3**      | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **React**     | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Git**       | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **GitHub**    | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Postman**   | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 
 ---
