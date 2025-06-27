@@ -36,6 +36,17 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 
 ---
 
+## 🔭 Currently Working On
+
+I’m currently focused on:
+
+- 🕵️‍♂️ Hunting for vulnerabilities in real-world web applications  
+- 🧪 Practicing ethical hacking and applying what I learn from platforms like **PortSwigger**  
+- 🛠️ Building and improving backend systems using **PHP**, **Laravel**, and **MySQL**  
+- 🚀 Developing personal projects to sharpen my problem-solving and system design skills
+
+---
+
 ## 🛠️ Technologies & Tools
 
 <p align="center">
@@ -75,7 +86,6 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
 </p>
 
-<!-- البديل عن GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Emarah23&theme=tokyo-night" alt="Activity Graph" />
 </p>
