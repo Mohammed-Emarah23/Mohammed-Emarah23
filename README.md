@@ -1,68 +1,106 @@
-<h1 align="center">Hi 👋, I'm Mohammed Emarah</h1>
+<!-- 👋 INTRO -->
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">Your Name</a> 👋</h1>
 
 <p align="center">
-  <i>💻 PHP Backend Developer &nbsp;&bull;&nbsp; 🐞 Bug Bounty Hunter</i>
+💻 PHP Backend Developer &nbsp;•&nbsp; 🐞 Bug Bounty Hunter &nbsp;•&nbsp; 🔐 Web Security Enthusiast  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;PHP+Backend+Developer;Bug+Bounty+Hunter;Web+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💻 PHP Backend Developer
 
-- 💻 I'm a PHP backend developer specialized in **Laravel** and **Vanilla PHP**
-- 🛠️ I build real-world systems like **e-commerce platforms** and **academic scheduling systems**
-- 🔐 I'm also a bug bounty hunter focused on **access control**, **injection flaws**, and **authentication vulnerabilities**
-- 🌱 Constantly learning about **clean code**, **modern UI/UX**, and backend architecture
-- 📬 Reach me at: **memarah37@gmail.com**
+I specialize in building backend systems using **PHP** and **MySQL**, with a strong focus on writing clean, secure, and scalable code.  
+I’ve worked on several real-world projects like **e-commerce platforms** and **academic systems** using **Laravel** and **Vanilla PHP**.  
+I enjoy turning ideas into functional and efficient web applications.
 
 ---
+
+## 🐞 Bug Bounty Hunter
+
+I’m also an active **bug bounty hunter**, passionate about finding security vulnerabilities in web applications.  
+I’ve spent a lot of time learning and practicing through platforms like **PortSwigger Web Security Academy**, and I constantly test real-world scenarios to sharpen my skills.
+
+**Focus Areas:**
+- 🔐 Access control issues  
+- 💉 Injection flaws  
+- 🔑 Authentication vulnerabilities
+
+---
+
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emarah23&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emarah23&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="mailto:memarah37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-emarah11/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/dev-x-zero/assets/main/images/laravel.svg" width="40" /><br>Laravel
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" /><br>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 📊 GitHub Stats Tools (Widgets)
+
+Here are some great tools you can use to add GitHub stats to your profile:
+
+- 🔥 GitHub Stats Cards  
+  [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+- 🌟 GitHub Streak  
+  [https://github.com/denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
+
+- 📈 GitHub Activity Graph  
+  [https://github.com/Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+- 💬 GitHub Metrics  
+  [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
+
+---
+
+## 📫 How to Reach Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Emarah23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
+
+<p align="center">
+  <i>"Driven by code. Secured by knowledge. Always learning."</i>
+</p>
+
 
