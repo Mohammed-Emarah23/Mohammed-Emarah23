@@ -1,110 +1,84 @@
-<!-- 👋 INTRO -->
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mohammed-emarah11/" target="_blank">Mohammed Emarah</a> 👋</h1>
+<h1 align="center">👋 Hello! I'm Mohammed Emarah</h1>
 
 <p align="center">
-💻 PHP Backend Developer &nbsp;•&nbsp; 🐞 Bug Bounty Hunter &nbsp;•&nbsp; 🔐 Web Security Enthusiast  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;PHP+Backend+Developer;Bug+Bounty+Hunter;Web+Security+Enthusiast" alt="Typing SVG" />
-</p>
-
-<!-- GIF Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+  💻 PHP Backend Developer | 🐞 Bug Bounty Hunter
 </p>
 
 ---
 
-## 💻 PHP Backend Developer
+## 💬 About Me
 
-I specialize in building backend systems using **PHP** and **MySQL**, with a strong focus on writing clean, secure, and scalable code.  
-I’ve worked on several real-world projects like **e-commerce platforms** and **academic systems** using **Laravel** and **Vanilla PHP**.  
+I specialize in building backend systems using PHP and MySQL, with a strong focus on writing clean, secure, and scalable code.  
+I’ve worked on several real-world projects like e-commerce platforms and academic systems using Laravel and Vanilla PHP.  
 I enjoy turning ideas into functional and efficient web applications.
 
----
-
-## 🐞 Bug Bounty Hunter
-
-I’m also an active **bug bounty hunter**, passionate about finding security vulnerabilities in web applications.  
-I’ve spent a lot of time learning and practicing through platforms like **PortSwigger Web Security Academy**, and I constantly test real-world scenarios to sharpen my skills.
-
-**Focus Areas:**
-- 🔐 Access control issues  
-- 💉 Injection flaws  
-- 🔑 Authentication vulnerabilities
-
----
-
-## 🔭 Currently Working On
-
-I’m currently focused on:
-
-- 🕵️‍♂️ Hunting for vulnerabilities in real-world web applications  
-- 🧪 Practicing ethical hacking and applying what I learn from platforms like **PortSwigger**  
-- 🛠️ Building and improving backend systems using **PHP**, **Laravel**, and **MySQL**  
-- 🚀 Developing personal projects to sharpen my problem-solving and system design skills
+I’m also an active bug bounty hunter, passionate about finding security vulnerabilities in web applications.  
+I’ve spent a lot of time learning and practicing through platforms like PortSwigger Web Security Academy.  
+My focus is on access control issues, injection flaws, and authentication vulnerabilities.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 My Blog & Articles
+## 🌐 Portfolio
 
-You can find my technical articles, writeups, and bug bounty experiences on Medium:
+🚧 I'm currently building my personal portfolio.  
+More updates coming soon!
+
+---
+
+## 📜 Certifications
+
+- [ ] Coming soon...
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://medium.com/@mohammedemarah" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emarah23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammed-Emarah23&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats Tools (Widgets)
+## 📊 Skills Chart
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emarah23&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Emarah23&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## 👀 Visitors
 
 <p align="center">
-  <a href="mailto:memarah37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-emarah11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Emarah23&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"Driven by code. Secured by knowledge. Always learning."</i>
-</p>
+## 📫 Contact
 
+- Email: memarah37@gmail.com  
+- LinkedIn: [mohammed-emarah11](https://www.linkedin.com/in/mohammed-emarah11/)
+
+---
 
 
 
