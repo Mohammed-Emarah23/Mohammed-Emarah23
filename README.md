@@ -74,19 +74,12 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 
 ## 📊 GitHub Stats Tools (Widgets)
 
-Here are some great tools you can use to add GitHub stats to your profile:
+Here are some great tools you can use to enhance your GitHub profile:
 
-- 🔥 GitHub Stats Cards  
-  [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-- 🌟 GitHub Streak  
-  [https://github.com/denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
-
-- 📈 GitHub Activity Graph  
-  [https://github.com/Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-- 💬 GitHub Metrics  
-  [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
+- 🔥 [GitHub Stats Cards](https://github.com/anuraghazra/github-readme-stats)  
+- 🌟 [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)  
+- 📈 [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)  
+- 💬 [GitHub Metrics](https://github.com/lowlighter/metrics)
 
 ---
 
@@ -102,5 +95,4 @@ Here are some great tools you can use to add GitHub stats to your profile:
 <p align="center">
   <i>"Driven by code. Secured by knowledge. Always learning."</i>
 </p>
-
 
