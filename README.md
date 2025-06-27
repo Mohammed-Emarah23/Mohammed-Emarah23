@@ -30,6 +30,7 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 - 🔑 Authentication vulnerabilities
 
 ---
+
 ## 🛠️ Technologies & Tools
 
 <p align="center">
@@ -43,6 +44,18 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+## 🌐 My Blog & Articles
+
+You can find my technical articles, writeups, and bug bounty experiences on Medium:
+
+<p align="center">
+  <a href="https://medium.com/@mohammedemarah" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+  </a>
 </p>
 
 ---
@@ -70,4 +83,3 @@ Here are some great tools you can use to enhance your GitHub profile:
 <p align="center">
   <i>"Driven by code. Secured by knowledge. Always learning."</i>
 </p>
-
