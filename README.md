@@ -68,9 +68,15 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
 ## 📊 GitHub Stats Tools (Widgets)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emarah23&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emarah23&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emarah23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emarah23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,4 +93,5 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
 <p align="center">
   <i>"Driven by code. Secured by knowledge. Always learning."</i>
 </p>
+
 
