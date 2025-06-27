@@ -9,6 +9,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;PHP+Backend+Developer;Bug+Bounty+Hunter;Web+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
+<!-- GIF Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+</p>
+
 ---
 
 ## 💻 PHP Backend Developer
@@ -62,12 +67,11 @@ You can find my technical articles, writeups, and bug bounty experiences on Medi
 
 ## 📊 GitHub Stats Tools (Widgets)
 
-Here are some great tools you can use to enhance your GitHub profile:
-
-- 🔥 [GitHub Stats Cards](https://github.com/anuraghazra/github-readme-stats)  
-- 🌟 [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)  
-- 📈 [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)  
-- 💬 [GitHub Metrics](https://github.com/lowlighter/metrics)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emarah23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emarah23&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emarah23&theme=tokyonight" />
+</p>
 
 ---
 
@@ -83,3 +87,4 @@ Here are some great tools you can use to enhance your GitHub profile:
 <p align="center">
   <i>"Driven by code. Secured by knowledge. Always learning."</i>
 </p>
+
