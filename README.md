@@ -52,6 +52,7 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 </p>
 
 ---
+
 ## 📜 Certifications
 
 <p align="center">
@@ -68,6 +69,19 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
     <img src="https://img.shields.io/badge/Business%20English%20Track%20(Round%201)-OTO%20%26%20MCIT-FFA500?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="English Certificate"/>
   </a>
 
+</p>
+
+---
+
+## 📝 Blog & Writeups
+
+I regularly share my technical articles and bug bounty writeups on Medium.  
+Check them out here 👉 [medium.com/@mohammedemarah](https://medium.com/@mohammedemarah)
+
+<p align="center">
+  <a href="https://medium.com/@mohammedemarah" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+  </a>
 </p>
 
 ---
