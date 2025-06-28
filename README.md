@@ -52,39 +52,22 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 </p>
 
 ---
-
 ## 📜 Certifications
 
 <p align="center">
 
-  <a href="https://mohammed-emarah23.github.io/certificates/Route.pdf" target="_blank">
+  <a href="https://mohammed-emarah23.github.io/Route.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Back--end%20(PHP%20%26%20Laravel)%20Diploma-Route%20Academy-8A2BE2?style=for-the-badge&logo=laravel&logoColor=white" alt="Back-end Laravel Certification"/>
   </a>
 
-  <a href="https://mohammed-emarah23.github.io/certificates/Mohammed%20Adel%20Emarah.pdf" target="_blank">
+  <a href="https://mohammed-emarah23.github.io/Mohammed%20Adel%20Emarah.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Digital%20Egypt%20Pioneers%20Program-MCIT-228B22?style=for-the-badge&logo=gov.uk&logoColor=white" alt="Digital Egypt Certificate"/>
   </a>
 
-  <a href="https://mohammed-emarah23.github.io/certificates/English.pdf" target="_blank">
+  <a href="https://mohammed-emarah23.github.io/English.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Business%20English%20Track%20(Round%201)-OTO%20%26%20MCIT-FFA500?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="English Certificate"/>
   </a>
 
-</p>
-
-<p align="center">
-  <i>🏅 More certifications will be added as I continue learning and growing.</i>
-</p>
-
----
-
-## 🌐 My Blog & Articles
-
-You can find my technical articles, writeups, and bug bounty experiences on Medium:
-
-<p align="center">
-  <a href="https://medium.com/@mohammedemarah" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
-  </a>
 </p>
 
 ---
