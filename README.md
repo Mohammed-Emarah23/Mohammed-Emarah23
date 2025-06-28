@@ -56,15 +56,15 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 
 <p align="center">
 
-  <a href="https://github.com/Mohammed-Emarah23/Mohammed-Emarah23/raw/main/Route.pdf" target="_blank">
+  <a href="https://github.com/Mohammed-Emarah23/Mohammed-Emarah23/raw/main/My%20Certificates/Route.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Back--end%20(PHP%20%26%20Laravel)%20Diploma-Route%20Academy-8A2BE2?style=for-the-badge&logo=laravel&logoColor=white" alt="Back-end Laravel Certification"/>
   </a>
 
-  <a href="https://github.com/Mohammed-Emarah23/Mohammed-Emarah23/raw/main/Mohammed%20Adel%20Emarah.pdf" target="_blank">
+  <a href="https://github.com/Mohammed-Emarah23/Mohammed-Emarah23/raw/main/My%20Certificates/Mohammed%20Adel%20Emarah.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Digital%20Egypt%20Pioneers%20Program-MCIT-228B22?style=for-the-badge&logo=gov.uk&logoColor=white" alt="Digital Egypt Certificate"/>
   </a>
 
-  <a href="https://github.com/Mohammed-Emarah23/Mohammed-Emarah23/raw/main/English.pdf" target="_blank">
+  <a href="https://github.com/Mohammed-Emarah23/Mohammed-Emarah23/raw/main/My%20Certificates/English.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Business%20English%20Track%20(Round%201)-OTO%20%26%20MCIT-FFA500?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="English Certificate"/>
   </a>
 
