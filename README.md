@@ -76,7 +76,7 @@ I’ve spent a lot of time learning and practicing through platforms like **Port
 ## 📝 Blog & Writeups
 
 I regularly share my technical articles and bug bounty writeups on Medium.  
-Check them out here 👉 [medium.com/@mohammedemarah](https://medium.com/@mohammedemarah)
+Check them out here  [medium.com/@mohammedemarah](https://medium.com/@mohammedemarah)
 
 <p align="center">
   <a href="https://medium.com/@mohammedemarah" target="_blank">
